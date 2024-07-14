@@ -1,5 +1,5 @@
 <?php 
-define('DB_NAME', 'F:\creative cloud\Downloads\New folder\Crud\data\db.txt');
+define('DB_NAME', 'data\\db.text');
 function seed() {
     $data           = array(
         array(
